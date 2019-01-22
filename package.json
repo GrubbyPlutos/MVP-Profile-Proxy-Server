@@ -1,0 +1,28 @@
+{
+  "name": "proxy-service",
+  "version": "1.0.0",
+  "description": "The sole purpose of this app is to make a proxy server to delegate requests.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon proxyServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrubbyPlutos/SDC-Profile-Proxy.git"
+  },
+  "author": "Jose Velez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrubbyPlutos/SDC-Profile-Proxy/issues"
+  },
+  "homepage": "https://github.com/GrubbyPlutos/SDC-Profile-Proxy#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.9"
+  }
+}
