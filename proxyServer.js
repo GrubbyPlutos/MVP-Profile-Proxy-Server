@@ -4,9 +4,6 @@ const morgan = require('morgan');
 const PORT = 2000;
 const app = express();
 
-
-app.use(morgan('tiny'));
-
 let id;
 
 app.get('/:id', (req, res) => {
