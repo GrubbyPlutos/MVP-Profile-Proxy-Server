@@ -8,5 +8,10 @@
   - [Suggested Restaurants](https://github.com/GrubbyPlutos/restaurants-suggestions)
 
 
+## About Grubby Hub
+
+> Grubby Hub is a food ordering app where users can order food online from hundreds of restaurants around their area.
+
+
 ### Status
 This repo is still under development.
